@@ -1,0 +1,30 @@
+_repo: Contes-irr-v-rencieux_12080
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Silvestre, Armand
+    aliases:
+    - Silvestre, Paul-Armand
+    - Sylvestre, Armand
+    - Sylvestre, Paul Armand
+    - Silvestre, A. (Armand)
+    birthdate: 1837
+    deathdate: 1901
+    gutenberg_agent_id: '4215'
+    url: http://www.gutenberg.org/2009/agents/4215
+description: ''
+gutenberg_bookshelf: FR Nouvelles
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12080'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PQ'
+- GITenberg
+title: Contes irrévérencieux
+url: http://www.gutenberg.org/ebooks/12080
